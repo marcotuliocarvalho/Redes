@@ -1,0 +1,1 @@
+gcc client/*.c socket/*.c -o client_application && ./client_application $1

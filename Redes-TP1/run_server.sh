@@ -1,0 +1,1 @@
+gcc server/*.c socket/*.c -o server_application && ./server_application

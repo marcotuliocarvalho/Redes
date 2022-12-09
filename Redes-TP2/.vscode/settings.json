@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "thread_server.h": "c",
+        "queue_server.h": "c",
+        "multithread_server.h": "c",
+        "queue.h": "c",
+        "single_server.h": "c",
+        "server.h": "c",
+        "select_server.h": "c",
+        "content-type.h": "c",
+        "socket.h": "c"
+    }
+}
